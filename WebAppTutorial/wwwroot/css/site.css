@@ -25,3 +25,13 @@ body {
 .green-text {
     color:darkolivegreen;
 }
+
+/*Styling Header for video*/
+.Video-text {
+    color:palevioletred;
+}
+
+/*Background color*/
+body {
+    background-color: lightcoral;
+}
